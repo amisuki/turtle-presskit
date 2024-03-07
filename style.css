@@ -19,16 +19,18 @@ img {
 	font-weight: bold;
 }
 
+#navigation strong.nav-header {
+	padding: 5px 15px;
+	font-weight: bold;
+}
+
+
 #navigation ul.uk-nav {
 	padding: 15px 0;
 }
 
 #navigation p {
 	padding-bottom: 10px;
-}
-
-#navigation li.language-select select {
-	float: right;
 }
 
 #content h2 {
